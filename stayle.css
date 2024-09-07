@@ -1,0 +1,15 @@
+
+body{
+    background: purple;
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+
+
+ .card{
+    background:whitesmoke;
+    text-align: center;
+    margin: 3rem;
+ }
